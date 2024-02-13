@@ -21,3 +21,24 @@ Contoh ditatas adalah apabila kita ingin mengubah daftar anggota yang sudah ters
 ![5  Update Data (ID not Available)](https://github.com/hafidzf25/LP1DPBO2024C2/assets/117885795/fab720de-faf0-493b-b423-3ab9cac8147b)
 
 Contoh diatas adalah apabila kita ingin mengubah daftar anggota, tetapi ID yang dimasukkan belum terdaftar
+
+![6  Delete Data (ID found)](https://github.com/hafidzf25/LP1DPBO2024C2/assets/117885795/e9344bcb-886c-4b24-ad8e-ba72350ac4e4)
+
+Berikut adalah contoh penghapusan data, dengan memasukkan ID
+
+![7  Delete Data (ID found)](https://github.com/hafidzf25/LP1DPBO2024C2/assets/117885795/87be1b86-21d1-47be-bb06-408acdf21ba2)
+
+Apabila ditemukan, maka muncul berikut
+
+![8  Delete Data (ID not found)](https://github.com/hafidzf25/LP1DPBO2024C2/assets/117885795/b954c41c-a210-435d-acee-48486ab72d59)
+
+Apabila tidak ditemukan, maka muncul berikut
+
+![9  Read Data](https://github.com/hafidzf25/LP1DPBO2024C2/assets/117885795/813d5145-8552-4c25-91b0-15675ceff311)
+
+Berikut adalah menampilkan data dalam list
+
+![10  Exit](https://github.com/hafidzf25/LP1DPBO2024C2/assets/117885795/ccd8eddc-b90b-4ad3-95c8-2254eff1edd3)
+
+Dan diakhiri dengan keluar program
+
